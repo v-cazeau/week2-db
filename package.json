@@ -1,0 +1,16 @@
+{
+  "name": "week2-db",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "week2-db-iceCream.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^5.1.0"
+  }
+}
